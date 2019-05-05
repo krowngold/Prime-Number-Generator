@@ -1,0 +1,4 @@
+This program asks the user if they'd like to see the next prime number.
+If the user responds with "yes" then the program will run through each number until it determine what
+the next prime number is. Once found, the program prints the new prime number to the console. 
+If the user ever responds with "no" then the program will end.
